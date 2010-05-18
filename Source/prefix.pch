@@ -1,0 +1,7 @@
+
+#if __cplusplus
+#include <iostream>
+#include <cmath>
+#include <cassert>
+#include "common.h"
+#endif
